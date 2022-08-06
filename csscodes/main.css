@@ -326,6 +326,7 @@
 }
 .footer-text {
 	padding: 20px 20px;
+    align-items: start;
 }
 .footer-text__parag {
 	font-family: 'Rubik';
@@ -339,7 +340,7 @@
 	list-style-type: none;
 }
 .footer-text__item {
-	padding: 10px 60px;
+    padding: 10px 60px;
 }
 .footer-link {
 	font-family: 'Rubik';
